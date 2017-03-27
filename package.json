@@ -1,0 +1,26 @@
+{
+  "name": "imooc-crawler",
+  "version": "0.0.1",
+  "description": "This is a lesson about node-crawler",
+  "main": "imooc-crawler.js",
+  "dependencies": {
+    "cheerio": "^0.22.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zoe489/crawler.git"
+  },
+  "keywords": [
+    "crawler-lesson"
+  ],
+  "author": "Zoe489",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Zoe489/crawler/issues"
+  },
+  "homepage": "https://github.com/Zoe489/crawler#readme"
+}
